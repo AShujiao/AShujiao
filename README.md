@@ -1,10 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,30,18&height=200&section=header&text=AShujiao&fontSize=50&fontColor=fff&animation=fadeIn&stroke=ffffff&strokeWidth=1)
+<img src="https://img.shields.io/badge/⚡_AShujiao-0d1117?style=for-the-badge&labelColor=FF6B6B" height="50"/>
+<img src="https://img.shields.io/badge/🐷_Github特约养猪厂厂长-0d1117?style=for-the-badge&labelColor=4ECDC4" height="50"/>
 
-<a href="https://github.com/AShujiao">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=🐷+Github特约养猪厂厂长;VSCode+Extension+Creator;Full+Stack+Developer;Go+%7C+PHP+%7C+C%23+%7C+Node.js" alt="Typing SVG" />
-</a>
 
 <br>
 
@@ -20,22 +18,6 @@
 
 ---
 
-### 🌟 Flagship Project
-
-<a href="https://github.com/AShujiao/vscode-background-cover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AShujiao&repo=vscode-background-cover&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f8d866" />
-</a>
-
-<br>
-
-<a href="https://github.com/AShujiao/vscode-nest">
-  <img src="https://img.shields.io/badge/vscode--nest-✨_粒子背景插件-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</a>
-<a href="https://github.com/AShujiao/vscode-maxPlus">
-  <img src="https://img.shields.io/badge/vscode--maxPlus-📰_MAX+资讯-EC4899?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</a>
-
----
 
 ### 🏆 Achievements Unlocked
 
@@ -46,12 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=AShujiao&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&rank_icon=github"/>
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=AShujiao&theme=radical&hide_border=true&background=0d1117"/>
-
----
 
 <a href="https://vs.20988.xyz/">
   <img src="https://img.shields.io/badge/🌐_My_Website-vs.20988.xyz-FF6B6B?style=for-the-badge&labelColor=1c1917"/>
