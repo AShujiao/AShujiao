@@ -40,6 +40,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AShujiao&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=f8d866&point=ff6b6b" width="95%"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,30,18&height=120&section=footer&animation=twinkling)
+<img src="https://img.shields.io/badge/📍_China_Ice_Fire_Island_·_🏢_DOFUN-1c1917?style=flat-square"/>
+
 
 </div>
